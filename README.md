@@ -2,6 +2,10 @@
 
 ## DP-100 Exam Preparation Material: Designing and Implementing a Data Science Solution on Azure
 
+### Motivation
+
+Preparing for the DP-100 exam and mastering Azure Machine Learning is a valuable endeavor for data scientists and machine learning practitioners. This certification validates your expertise in designing and implementing data science solutions on Azure, showcasing your ability to leverage Azure Machine Learning for building, training, and deploying machine learning models at scale. By earning this certification, you demonstrate your proficiency in using Azure's powerful tools and services to solve real-world machine learning problems, making you a sought-after professional in the field. This guide will help you navigate the exam preparation process, providing you with the necessary knowledge and hands-on experience to succeed.
+
 ### Overview and Preparation Strategy
 
 #### Exam Overview

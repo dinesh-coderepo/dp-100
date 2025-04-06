@@ -1,5 +1,7 @@
 # I. Setting Up an Azure Machine Learning Workspace (15-20%)
 
+Setting up an Azure Machine Learning Workspace is a crucial first step in leveraging the full potential of Azure's machine learning capabilities. This workspace serves as the central hub for managing all aspects of your machine learning projects, including data storage, compute resources, experiment tracking, model training, and deployment. By establishing a well-architected workspace, you ensure a structured and efficient environment for developing, testing, and deploying machine learning models. This section will guide you through the essential steps and considerations for planning, provisioning, and configuring an Azure Machine Learning Workspace, enabling you to build a solid foundation for your machine learning initiatives.
+
 ## A. Plan and Provision an Azure Machine Learning Workspace
 
 ### 1. Understanding Azure Machine Learning Concepts
