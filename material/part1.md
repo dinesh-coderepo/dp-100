@@ -1,3 +1,7 @@
+# Understanding Azure Machine Learning Concepts and Planning the Workspace Architecture
+
+Azure Machine Learning is a powerful platform that enables data scientists and machine learning engineers to build, train, and deploy machine learning models at scale. Understanding the core concepts of Azure Machine Learning and effectively planning the workspace architecture are crucial steps in leveraging the full potential of this platform. By mastering these foundational elements, you can ensure a structured and efficient environment for your machine learning projects, leading to more successful outcomes and streamlined workflows.
+
 Okay, let's break down the DP-100 topics and create in-depth questions with explanations for each section.
 
 **DP-100: Designing and Implementing a Data Science Solution on Azure**
